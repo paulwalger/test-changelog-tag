@@ -17,5 +17,4 @@ jobs:
           WITH_V: false
           RELEASE_BRANCHES: main
           DEFAULT_BUMP: patch
-          INITIAL_VERSION: 0.0.0
           TAG_CONTEXT: branch
