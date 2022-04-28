@@ -5,3 +5,6 @@ def main():
     
 def login():
     return "user-id"
+
+def signup():
+    return "user-id"
