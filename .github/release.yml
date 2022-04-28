@@ -11,12 +11,11 @@ changelog:
       labels:
         - major
         - breaking-change
-    - title: Exciting New Features 🎉
+    - title: New Features 🎉
       labels:
         - minor
         - feature
-
-    - title: Exciting New Features 🎉
+    - title: Bug Fixes 🔨
       labels:
         - patch
         - bugfix
