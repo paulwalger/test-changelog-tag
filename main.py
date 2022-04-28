@@ -1,5 +1,5 @@
 HELLO = "Hello World"
 
 def main():
-    print(HELLO)
+    print(HELLO, "Fix")
     return HELLO
