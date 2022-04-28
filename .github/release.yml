@@ -21,4 +21,4 @@ changelog:
         - bugfix
     - title: Other Changes
       labels:
-        - "*"
+        - "include-in-other-release"
